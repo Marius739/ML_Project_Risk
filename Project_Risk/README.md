@@ -1,6 +1,11 @@
-## Intro
-This is a simple machine learning model for a project
+# Machine Learning Project for Enterprise Risk Prediction
+Welcome to the repository for the machine learning project dedicated to predicting enterprise risk. This project was developed as part of a course to apply fundamental concepts of machine learning and data analysis.
 
+## Repository Structure
+This folder contains all the source code and resources related to the enterprise risk prediction project. You will find Jupyter notebooks, Python scripts, datasets, and other relevant files.
+
+## Project Objective
+The main goal of this project is to develop a machine learning model capable of predicting the risk associated with an enterprise. Using financial and operational data, the model aims to assess the probability that the company poses an increased risk. This task is crucial for investors, financial institutions, and other stakeholders to make informed decisions.
 
 ## Required Packages
 To run the file you need those specific packages.
@@ -14,7 +19,6 @@ if you are using pip :
 ```bash
 $ pip install -r requirements.txt
 ```
-
 ## Script and Notebook
 To run the .py file : 
 ```bash
