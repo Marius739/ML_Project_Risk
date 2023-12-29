@@ -9,7 +9,7 @@ The main goal of this project is to develop a machine learning model capable of 
 
 ## Required Packages
 To run the file you need those specific packages.
-To install the necessary packages from the [requirements.txt](https://github.com/Marius739/Machine-Learning/blob/main/Project_Risk/requirements.txt) file you need this command line
+To install the necessary packages from the [requirements.txt](https://github.com/Marius739/ML_Project_Risk/blob/main/requirements.txt) file you need this command line
 
 if you are using venv from Anaconda :
 ```bash
@@ -27,4 +27,4 @@ $ python predict_risk.py --output predictions.csv
 You can replace "predictions.csv" with another name. Note that the file will be created in the same file as the script
 For the notebook 
 
-You will also find the [training](https://github.com/Marius739/Machine-Learning/blob/main/Project_Risk/training_dataset.csv) and the [final test](https://github.com/Marius739/Machine-Learning/blob/main/Project_Risk/final_test.csv) datasets for the model. 
+You will also find the [training](https://github.com/Marius739/ML_Project_Risk/blob/main/data/training_dataset.csv) and the [final test](https://github.com/Marius739/ML_Project_Risk/blob/main/data/final_dataset.csv) datasets for the model. 
